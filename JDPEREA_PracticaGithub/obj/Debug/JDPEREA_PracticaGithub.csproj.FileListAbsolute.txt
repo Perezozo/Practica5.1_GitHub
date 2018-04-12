@@ -8,3 +8,13 @@ D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_PrimerAlumn
 D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_PrimerAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.csproj.CoreCompileInputs.cache
 D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_PrimerAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.exe
 D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_PrimerAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.pdb
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\bin\Debug\JDPEREA_PracticaGithub.exe.config
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\bin\Debug\JDPEREA_PracticaGithub.exe
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\bin\Debug\JDPEREA_PracticaGithub.pdb
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.csprojResolveAssemblyReference.cache
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.Form1.resources
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.Properties.Resources.resources
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.csproj.GenerateResource.cache
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.csproj.CoreCompileInputs.cache
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.exe
+D:\DAW\Entornos Desarrollo\Segunda Eval\Tema 6\Practica 5.1\Practica_SegundoAlumno\Practica5.1_GitHub\JDPEREA_PracticaGithub\obj\Debug\JDPEREA_PracticaGithub.pdb
