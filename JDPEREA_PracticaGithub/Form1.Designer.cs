@@ -50,7 +50,6 @@
             this.aluNombre.Name = "aluNombre";
             this.aluNombre.Size = new System.Drawing.Size(217, 22);
             this.aluNombre.TabIndex = 1;
-            this.aluNombre.TextChanged += new System.EventHandler(this.aluNombre_TextChanged);
             // 
             // aluNota
             // 
@@ -58,7 +57,6 @@
             this.aluNota.Name = "aluNota";
             this.aluNota.Size = new System.Drawing.Size(55, 22);
             this.aluNota.TabIndex = 2;
-            this.aluNota.TextChanged += new System.EventHandler(this.aluNota_TextChanged);
             // 
             // listaAlumnos
             // 
@@ -68,7 +66,6 @@
             this.listaAlumnos.ReadOnly = true;
             this.listaAlumnos.Size = new System.Drawing.Size(316, 249);
             this.listaAlumnos.TabIndex = 3;
-            this.listaAlumnos.TextChanged += new System.EventHandler(this.listaAlumnos_TextChanged);
             // 
             // Form1
             // 
